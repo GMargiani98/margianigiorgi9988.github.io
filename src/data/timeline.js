@@ -10,7 +10,7 @@ export default [
     year: '2022',
     title: 'JavaScript Intern at EXADEL',
     duration: '2Months',
-    details: `2Months of intense project based Internship focusing on TypeScript, Angular, NodeJS, Express, MongoDB. Lectures, Weekly Tasks, daily stand ups with developers and business owner Interns and Building a Budgeting Application in a simulative real work environment`,
+    details: `2Months of intense project based Internship focusing on TypeScript, Angular, NodeJS, Express, MongoDB. Lectures, Weekly Tasks, daily stand ups with developers and business analyst Interns and Building a Budgeting Application in a simulative real work environment`,
   },
   {
     year: '2018',
